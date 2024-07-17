@@ -1,0 +1,36 @@
+{
+  "name": "@marjan-ahmed/student-management-system",
+  "version": "1.0.2",
+  "description": "The Project is based on Object Oriented Programming.",
+  "main": "index.js",
+  "bin": {
+    "student-management-system": "index.js"
+  },
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marjan Ahmed",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjan-ahmed/Student-management-system.git"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^10.0.2",
+    "some-library": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/marjan-ahmed/Student-management-system/issues"
+  },
+  "homepage": "https://github.com/marjan-ahmed/Student-management-system#readme"
+}
